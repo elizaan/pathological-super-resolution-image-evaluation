@@ -1,5 +1,5 @@
 import {
-  Flex, Image, Select, Title, Space, Grid, Drawer, Text, Burger, Button, Divider,
+  Flex, Select, Title, Space, Grid, Drawer, Text, Burger, Button, Divider,
   Box, AppShell,
 } from '@mantine/core';
 
