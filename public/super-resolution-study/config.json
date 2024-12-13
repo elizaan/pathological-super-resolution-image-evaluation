@@ -17,7 +17,7 @@
     "contactEmail": "ishratjahan.eliza@utah.edu",
     "helpTextPath": "super-resolution-study/assets/help.md",
     "logoPath": "revisitAssets/revisitLogoSquare.svg",
-    "studyEndMsg": "**Thank you for participating. Your responses have been recorded. If you have any questions feel free to contact us at [ishratjahan.eliza@utah.edu](mailto:ishratjahan.eliza@utah.edu)**",
+    "studyEndMsg": "**Thank you for participating. Your responses have been recorded. If you have any questions feel free to contact us at [ishratjahan.eliza@utah.edu](mailto:ishratjahan.eliza@utah.edu) or [Sampad.Banik@utah.edu](mailto:Sampad.Banik@utah.edu)**",
     "withProgressBar": true,
     "autoDownloadStudy": false,
     "sidebar": true
@@ -106,15 +106,19 @@
     "pair1":{
       "baseComponent": "super",
       "nextButtonLocation": "belowStimulus",
-      "path": "super-resolution-study/assets/test4.html"  
+      "path": "super-resolution-study/assets/11771.html"  
     },
     "pair2":{
       "baseComponent": "super",
-      "path": "super-resolution-study/assets/test.html"  
+      "path": "super-resolution-study/assets/11772.html"  
     },
     "pair3":{
       "baseComponent": "super",
-      "path": "super-resolution-study/assets/test.html"  
+      "path": "super-resolution-study/assets/11773.html"  
+    },
+    "pair4":{
+      "baseComponent": "super",
+      "path": "super-resolution-study/assets/11774.html"  
     },
     "post-study": {
       "type": "questionnaire",
@@ -188,6 +192,7 @@
       "pair1",
       "pair2",
       "pair3",
+      "pair4",
       "post-study"
     ]
   }
